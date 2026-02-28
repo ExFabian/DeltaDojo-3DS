@@ -1,0 +1,22 @@
+--atlas -f rgba8888 -z auto
+spr_heart/spr_heart_0.png
+spr_heart/spr_heart_1.png
+spr_battlebg/spr_battlebg_0.png
+spr_battlebg/spr_battlebg_1.png
+fightbuttons/spr_btfight_0.png
+fightbuttons/spr_btfight_1.png
+fightbuttons/spr_btact_0.png
+fightbuttons/spr_btact_1.png
+fightbuttons/spr_bttech_0.png
+fightbuttons/spr_bttech_1.png
+fightbuttons/spr_btitem_0.png
+fightbuttons/spr_btitem_1.png
+fightbuttons/spr_btspare_0.png
+fightbuttons/spr_btspare_1.png
+fightbuttons/spr_btdefend_0.png
+fightbuttons/spr_btdefend_1.png
+fightbuttons/spr_tplogo.png
+spr_heart/spr_grazeappear_0.png
+spr_heart/spr_grazeappear_1.png
+spr_heart/spr_grazeappear_2.png
+spr_heart/spr_grazeappear_3.png

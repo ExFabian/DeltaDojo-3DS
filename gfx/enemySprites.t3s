@@ -1,0 +1,7 @@
+--atlas -f rgba8888 -z auto
+spr_rudinn/spr_diamondm_idle_0.png
+spr_rudinn/spr_diamondm_idle_1.png
+spr_rudinn/spr_diamondm_idle_2.png
+spr_rudinn/spr_diamondm_idle_3.png
+spr_rudinn/spr_diamondm_hurt.png
+
